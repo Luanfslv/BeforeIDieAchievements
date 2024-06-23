@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/luanfslv">
+    <img
+      src="https://github.com/luanfslv"
+      width="100px"
+    />
+    <br />
+    <sub>Luan Marques</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
